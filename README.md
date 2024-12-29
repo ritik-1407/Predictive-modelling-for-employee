@@ -1,4 +1,3 @@
-I'd be glad to create a comprehensive README file for your Git project, incorporating insights from the provided information and addressing potential shortcomings:
 
 Project Title: Employee Performance Prediction Model
 
